@@ -66,6 +66,6 @@
     border-radius: 16px;
 }
 .food{
-    background:url(/img/food.png);
+    background:url("/img/food.png");
     background-size: cover;
 }
