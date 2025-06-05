@@ -6,7 +6,7 @@
 }
 
 .body {
-    background: url("img/bg.jpg");
+    background: url("./img/bg.jpg");
     min-height: 100vh;
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
@@ -66,6 +66,6 @@
     border-radius: 16px;
 }
 .food{
-    background:url("/img/food.png");
+    background:url("./img/food.png");
     background-size: cover;
 }
